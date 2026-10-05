@@ -19,10 +19,30 @@ export default function KvkkV1() {
       <div className="meta">Sürüm: v1 (taslak) · Son güncelleme: 05.10.2026</div>
 
       <p>
-        6698 sayılı Kişisel Verilerin Korunması Kanunu&apos;nun 11. ve 13. maddeleri kapsamında;
-        verinizin işlenip işlenmediğini öğrenme, düzeltme, silme ve aktarıldığı üçüncü kişileri
-        öğrenme gibi haklarınızı kullanmak için aşağıdaki adrese yazılı olarak
-        başvurabilirsiniz. Başvurunuza en geç <strong>30 gün içinde</strong> yanıt verilir.
+        6698 sayılı Kişisel Verilerin Korunması Kanunu&apos;nun 11. ve 13. maddeleri kapsamında
+        aşağıdaki haklara sahipsiniz:
+      </p>
+      <ul>
+        <li>Kişisel verinizin işlenip işlenmediğini öğrenme</li>
+        <li>İşlenmişse buna ilişkin bilgi talep etme</li>
+        <li>İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme</li>
+        <li>Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme</li>
+        <li>Eksik veya yanlış işlenmişse düzeltilmesini isteme</li>
+        <li>
+          İşlenmesini gerektiren sebepler ortadan kalkmışsa silinmesini veya yok edilmesini
+          isteme
+        </li>
+        <li>Yapılan düzeltme/silme işlemlerinin aktarıldığı üçüncü kişilere bildirilmesini isteme</li>
+        <li>
+          İşlenen verilerin münhasıran otomatik sistemlerle analiz edilmesi suretiyle aleyhinize
+          bir sonucun ortaya çıkmasına itiraz etme
+        </li>
+        <li>Kanuna aykırı işleme nedeniyle zarara uğramanız halinde zararın giderilmesini talep etme</li>
+      </ul>
+
+      <p>
+        Bu haklarınızı kullanmak için aşağıdaki adrese yazılı olarak başvurabilirsiniz.
+        Başvurunuza en geç <strong>30 gün içinde</strong> yanıt verilir.
       </p>
 
       <p>
@@ -32,7 +52,9 @@ export default function KvkkV1() {
 
       <p>
         Uygulama içinden hesabınızı silmek için ayrıca bir başvuruya gerek yoktur — Profil
-        ekranındaki &quot;Hesabımı Sil&quot; aksiyonu verinizi doğrudan kaldırır.
+        ekranındaki &quot;Hesabımı Sil&quot; aksiyonu verinizi doğrudan kaldırır. Hesap
+        silindiğinde rıza kayıtlarınız da hesapla birlikte silinir; bu davranışın değişip
+        değişmeyeceği hukuk danışmanı görüşüyle netleşecektir.
       </p>
 
       <footer className="page-footer">
