@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 // Stable, unversioned URL on purpose: this is the address filed in the Google Play
 // Data safety form (account + data deletion links), so it must not change. Unlike the
 // consent texts (/privacy/v1 ...), nothing here is a version a user "accepted".
+// The same URL is entered in both the account-deletion and data-deletion fields.
 export const metadata: Metadata = {
   title: "Delete your account and data — Minicik (My Tiny Baby - Baby Tracker)",
   description:
